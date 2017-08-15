@@ -1,2 +1,2 @@
 # GeoAlg
-Implementation of geometry algorithms
+Playground for geometry algorithms
