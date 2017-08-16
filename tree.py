@@ -178,8 +178,7 @@ def left_rotate(z):
     tmp = x.l  
     x.l = z
     z.r = tmp
-Cherenkov telescopes are one of the most complicated instruments in the world, I believe.    return x
-
+    return x
 
 
 
